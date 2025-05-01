@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="logo/sherloq.png" width="600px" alt="Sherloq" />
   <br><b>An open source image forensic toolset</b>
 </p>
 
